@@ -1,0 +1,33 @@
+#profName
+{
+  font-size: 22;
+  font: Times;
+  text-align: center;
+}
+#faveSites
+{
+  color: white;
+  text-align: center;
+}
+a
+{
+  color: white;
+  text-align: center;
+}
+a:hover
+{
+  background-color: blue;
+  text-align: center;
+}
+p
+{
+  color: white;
+  text-align: center;
+}
+body.background
+{
+  background-image: url(https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  text-align: center;
+}
